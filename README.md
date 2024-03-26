@@ -12,7 +12,7 @@ Right now it will ask if you want to install:
 and then goes about installing the selected packages.
 
 # Usage
-__*This will require sudo priveleges*__
+__*This will require sudo privileges*__
 ```
 wget https://raw.githubusercontent.com/jmniehaus/ubuntu_ds_setup/main/ubuntu_ds_setup.sh -P ~/Downloads
 chmod +x ~/Downloads/ubuntu_ds_setup.sh
